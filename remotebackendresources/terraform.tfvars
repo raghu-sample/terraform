@@ -1,0 +1,6 @@
+ami_id = "ami-084568db4383264d4"
+instance_type = "t2.micro"
+key_name = "target"
+bucket_name = "statefile-bucket-raghu0410"
+dynamodb_name = "terraform-lock"
+hash_key = "LockID"
